@@ -1,0 +1,19 @@
+.input {
+    max-width: 475px;
+    width: 80%;
+    font-size: 18px;
+    padding: 5px;
+    resize: none;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+#btn {
+    margin-top: 20px;
+    padding: 5px;
+    font-size: 18px;
+}
+

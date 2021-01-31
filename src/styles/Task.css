@@ -1,0 +1,18 @@
+.task, .btn-delete {
+    padding: 20px;
+}
+
+.check {
+    font-size: 22px;
+}
+
+.btn-delete {
+    padding: 15px 20px;
+    font-size: 18px;
+    background-color: #f00;
+    border: none;
+    color: #fff;
+    border-radius: 50%;
+    margin-left: 10px;
+    cursor: pointer;
+}
